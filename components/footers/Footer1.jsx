@@ -231,7 +231,9 @@ export default function Footer1() {
             <div className="col-md-12">
               <div className="copyright link-style4">
                 <p className="copyright-text">
-                  copyright {new Date().getFullYear()} by themesflat
+                  copyright {new Date().getFullYear()} by <a href="https://www.globaldigitalcare.pk/" target="_blank" rel="noopener noreferrer">
+      Global Digital Care
+    </a>.
                 </p>
               </div>
             </div>
