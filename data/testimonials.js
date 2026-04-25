@@ -1,0 +1,103 @@
+export const testimonials = [
+  {
+    imgSrc: "/images/team/staff-box1.jpg",
+    imgWidth: 894,
+    imgHeight: 894,
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at est id leo luctus gravida a in ipsum.",
+    name: "Eugene Freeman",
+    position: "Tincidunt",
+    overlayActive: false,
+  },
+  {
+    imgSrc: "/images/team/staff-box2.jpg",
+    imgWidth: 455,
+    imgHeight: 454,
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at est id leo luctus gravida a in ipsum.",
+    name: "Kelly Coleman",
+    position: "Nulla nec",
+    overlayActive: true,
+  },
+  {
+    imgSrc: "/images/team/staff-box3.jpg",
+    imgWidth: 894,
+    imgHeight: 894,
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at est id leo luctus gravida a in ipsum.",
+    name: "Philip Mendez",
+    position: "Consectetur",
+    overlayActive: false,
+  },
+  {
+    imgSrc: "/images/team/staff-box1.jpg",
+    imgWidth: 894,
+    imgHeight: 894,
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at est id leo luctus gravida a in ipsum.",
+    name: "Eugene Freeman",
+    position: "Tincidunt",
+    overlayActive: false,
+  },
+  {
+    imgSrc: "/images/team/staff-box2.jpg",
+    imgWidth: 455,
+    imgHeight: 454,
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at est id leo luctus gravida a in ipsum.",
+    name: "Kelly Coleman",
+    position: "Nulla nec",
+    overlayActive: true,
+  },
+  {
+    imgSrc: "/images/team/staff-box3.jpg",
+    imgWidth: 894,
+    imgHeight: 894,
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at est id leo luctus gravida a in ipsum.",
+    name: "Philip Mendez",
+    position: "Consectetur",
+    overlayActive: false,
+  },
+];
+
+export const testimonialData = [
+  {
+    id: 1,
+    boxClass: "",
+    imageSrc: "/images/team/staff-box1.jpg",
+    imageWidth: 894,
+    imageHeight: 894,
+    authorName: "Eugene Freeman",
+    authorRole: "Tincidunt",
+    testimonialText:
+      "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invi",
+  },
+  {
+    id: 2,
+    boxClass: "box-2",
+    imageSrc: "/images/team/staff-box2.jpg",
+    imageWidth: 455,
+    imageHeight: 454,
+    authorName: "Kelly Coleman",
+    authorRole: "Nulla nec",
+    testimonialText:
+      "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invi",
+  },
+  {
+    id: 3,
+    boxClass: "",
+    imageSrc: "/images/team/staff-box1.jpg",
+    imageWidth: 894,
+    imageHeight: 894,
+    authorName: "Eugene Freeman",
+    authorRole: "Tincidunt",
+    testimonialText:
+      "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invi",
+  },
+  {
+    id: 4,
+    boxClass: "box-2",
+    imageSrc: "/images/team/staff-box2.jpg",
+    imageWidth: 455,
+    imageHeight: 454,
+    authorName: "Kelly Coleman",
+    authorRole: "Nulla nec",
+    testimonialText:
+      "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invi",
+  },
+];
